@@ -1,0 +1,46 @@
+{
+  "basics":{
+    "name":"sravs",
+    "role":"student",
+    "mobile":"91 1234567890",
+    "email":"sravanthiinala999@gmail.com"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+  {
+    "degree":"b-tech(Computer Science & Engineering)",
+    "instiute":"Vignans Nirula",
+    "data":["2016-20","85%"]
+  },
+  {
+    "degree":"Diploma(cme)",
+    "instiute":"SUVR&SR",
+    "data":["2014-17","85%"]
+  },
+  {
+    "degree":"S.S.C",
+    "instiute":"Z.P.H.school",
+    "data":["2014","85%"]
+  }
+],
+"skills":[
+  {
+    "title":"programming languages",
+    "content":["python","c","java","R","c++"]
+  },
+  {
+    "title":"Data bases",
+    "content":["sql","oracle","mysql"]
+  },
+  {
+    "title":"web technologies",
+    "content":["html","xml","javascript"]
+  },
+  {
+    "title":"operating system",
+    "content":["widows","unix","linux"]
+  }
+]
+}
